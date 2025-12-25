@@ -1,2 +1,2 @@
-![Header](./github-header-banner)
+![github-header-banner](./github-header-banner)
 
